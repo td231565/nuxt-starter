@@ -16,6 +16,7 @@
     "@nuxt/devtools": "latest",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/tailwindcss": "^6.9.4",
+    "@pinia/nuxt": "^0.5.1",
     "@typescript-eslint/parser": "^6.11.0",
     "eslint": "^8.53.0",
     "eslint-config-prettier": "^9.0.0",
