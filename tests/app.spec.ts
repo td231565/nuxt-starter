@@ -1,6 +1,6 @@
 // import { describe, it, expect } from 'vitest'
 import { mount } from '@vue/test-utils'
-import App from '../app.vue'
+import App from '../pages/index.vue'
 
 describe('App Render', () => {
   it('is a Vue instance', () => {
